@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db835479-9d73-40cd-adc9-e85481804bf2" name="minecraftroium.ru" url="http://minecraftorium.ru">
+        <fileTransfer host="minecraftorium.ru" port="22" rootFolder="/var/www/minecraftorium" accessType="SFTP" password="dfc7dfffdff9dfe7df93df9adfdedff3" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
